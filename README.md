@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I’m Jiawei
 
-<!--
-**wjw55/wjw55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering undergraduate at the National University of Singapore,
+interested in embedded software, robotics, and edge AI.
 
-Here are some ideas to get you started:
+### Featured projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [ESP32-S3 Sensor Platform](https://github.com/wjw55/cuffless-bp-esp32s3)
+  — PPG and motion acquisition firmware, USB/BLE streaming,
+  and Python analysis tools.
+
+- [Alex Rescue Robot](https://github.com/wjw55/CG2111A_Alex)
+  — Raspberry Pi and Arduino robotic system integrating ROS 2,
+  LiDAR mapping, and motor control.
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/jiaweiwang55/)
